@@ -1,1 +1,1 @@
-{"dependencies":[],"generated":{"js":""},"hash":"32981a13284db7a021131df49e6cd203"}
+{"dependencies":[{"name":"react","loc":{"line":1,"column":18}}],"generated":{"js":"\"use strict\";function e(e){return e&&e.__esModule?e:{default:e}}Object.defineProperty(exports,\"__esModule\",{value:!0}),exports.TestApp=void 0;var t=require(\"react\"),r=e(t),s=exports.TestApp=function(){return r.default.createElement(\"div\",null,\"This is a test\")};"},"hash":"937a61d6c202665cd767525d4c828d94"}
