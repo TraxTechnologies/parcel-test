@@ -18,15 +18,10 @@
     "react-dom": "^16.2.0"
   },
   "devDependencies": {
-    "@babel/core": "^7.0.0-beta.35",
-    "@babel/plugin-external-helpers": "^7.0.0-beta.35",
     "babel-preset-react-app": "^3.1.0",
     "cross-env": "^5.1.1",
     "eslint": "^4.13.1",
     "jest": "^21.2.1",
-    "rollup": "^0.52.2",
-    "rollup-plugin-babel": "^3.0.2",
-    "rollup-plugin-commonjs": "^8.2.6",
-    "rollup-plugin-node-resolve": "^3.0.0"
+    "poi": "^9.6.1"
   }
 }
