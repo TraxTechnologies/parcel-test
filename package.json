@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "parcel watch index.js",
-    "build": "parcel build index.js"
+    "dev": "parcel watch src/index.js",
+    "build": "parcel build src/index.js"
   },
   "keywords": [],
   "author": "",
